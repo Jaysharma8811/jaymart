@@ -27,4 +27,13 @@ const searchAnything = 'Search anything...',
     topSellers = 'Top Sellers',
     brand = "Brand",
     topCategories = 'Top Categories',
-    featuredCategories = 'Featured Categories';
+    featuredCategories = 'Featured Categories',
+    womenDress=" Women Dress",
+    girlsWatches='Girls Watches',
+    mobilePhones='Mobile Phones',
+    boysGlasses='Boys Glasses',
+    tShirts='TShirts',
+    girlsDress='Girls Dress',
+    featuredProduct='Featured Product'
+
+;
