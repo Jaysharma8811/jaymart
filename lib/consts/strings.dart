@@ -28,12 +28,29 @@ const searchAnything = 'Search anything...',
     brand = "Brand",
     topCategories = 'Top Categories',
     featuredCategories = 'Featured Categories',
-    womenDress=" Women Dress",
-    girlsWatches='Girls Watches',
-    mobilePhones='Mobile Phones',
-    boysGlasses='Boys Glasses',
-    tShirts='TShirts',
-    girlsDress='Girls Dress',
-    featuredProduct='Featured Product'
+    womenDress = " Women Dress",
+    girlsWatches = 'Girls Watches',
+    mobilePhones = 'Mobile Phones',
+    boysGlasses = 'Boys Glasses',
+    tShirts = 'TShirts',
+    girlsDress = 'Girls Dress',
+    featuredProduct = 'Featured Product';
 
-;
+const womenClothing = 'Women Clothing',
+    menClothingFashion = 'Men Clothing & Fashion ',
+    compAccess = 'Computer & Accessories',
+    automobile = "Automobile",
+    kidToys = 'Kids & Toys',
+    sports = 'Sports',
+    jewelery = 'Jewelery',
+    cellPhone = 'Cellphone & Tab',
+    furniture = 'Furniture';
+
+const video = "Video",
+    review = "Reviews",
+    sellerPolicy = "Seller Policy",
+    returnPolicy = "Return Policy",
+    supportPolicy = "Support Policy",
+    productsYouMayLike = "Products You may also like";
+
+const wishList = "My Wishlist", orders = "My Orders", messages = "Messages";
